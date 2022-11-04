@@ -1,4 +1,4 @@
-[![MasterHead](https://javediqbal8572.github.io/dashboard/VID-20221102-WA0001.mp4)](https//:JavedIqbal8572.io)
+[![MasterHead](https://javediqbal8572.github.io/dashboard/VID-20221102-WA0001.mp4)](https//:ijaved85)
 <h1 align="center">Hi 👋, I'm Javed Iqbal</h1>
 <h3 align="center">A student</h3>
 <img align="right" alt="Coading" width="400" src="https://javediqbal8572.github.io/dashboard/computer.gif">
@@ -6,9 +6,9 @@
 
 - 📕 I’m currently completing my graduation in [SRIPAT SINGH COLLEGE College](https://www.sripatsinghcollege.edu.in/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/JavedIqbal8572](https://github.com/JavedIqbal8572)
+- 👨‍💻 All of my projects are available at [https://github.com/ijaved85](https://github.com/ijaved85)
 
-- 📫 How to reach me **Javediqbal8572@gmail.com**
+- 📫 How to reach me *Afifislam8572@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
