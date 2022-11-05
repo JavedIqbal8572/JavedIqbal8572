@@ -22,6 +22,6 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/javediqbal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="8346051322@paytm" /></a></p><br><br>
 ‐‐>
-#Snake Eating My Contribution Graph
+
 
 ![snake gif](https://github.com/ijaved85/ijaved85/blob/output/github-contribution-grid-snake.gif)
