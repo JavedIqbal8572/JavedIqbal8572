@@ -1,10 +1,10 @@
 
-<img align="center" alt="Master Head"  src="https://ijaved85.github.io/ijaved85/MasterHead.gif">
+<img align="center" width="100%" alt="Master Head"  src="https://github.com/ijaved85/ijaved85/blob/main/MasterHead.gif">
 
 
 <h1 align="center">Hi 👋, I'm Javed Iqbal</h1>
 <h3 align="center">A student</h3>
-<img align="right" alt="Coading" width="400" src="https://ijaved85.github.io/ijaved85 /computer.gif">
+<img align="right" alt="Coading" width="400" src="https://github.com/ijaved85/ijaved85/blob/main/computer.gif">
 <br><br>
 
 - 📕 I’m currently completing my graduation in [SRIPAT SINGH COLLEGE](https://www.sripatsinghcollege.edu.in/)
