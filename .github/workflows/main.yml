@@ -100,7 +100,7 @@ github action
 
     # using action context var `github.repository_owner` or specified user
 
-    github_user_name: ${{ github.repository_owner }}
+    github_user_name: ijaved85
 
     # path of the generated gif file
 
